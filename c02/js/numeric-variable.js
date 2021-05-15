@@ -8,3 +8,4 @@ total = price * quanity;
 
 var el = document.getElementById('cost');
 el.textContent = '$' + total;
+
