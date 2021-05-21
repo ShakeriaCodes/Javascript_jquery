@@ -1,10 +1,10 @@
 var price;
-var quanity;
+var quantity;
 var total;
 
 price = 5;
 quantity = 14;
-total = price * quanity;
+total = price * quantity;
 
 var el = document.getElementById('cost');
 el.textContent = '$' + total;
